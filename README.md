@@ -41,6 +41,5 @@ Built a Logistic Regression model to identify at-risk subscribers. This project 
 
   * **GitHub:** [github.com/ggmeklit](https://www.google.com/search?q=https://github.com/ggmeklit)
  
-*"I am excited to upload and share my journey as I evolve at the intersection of Economics, Compliance, and AI."*
 
 -----
