@@ -13,7 +13,7 @@ I am a Bachelor of Economics graduate and a data professional bridging the gap b
 
   * **Data Analytics and AI** | McGill University *(Enrolled)*
   * **Computer Science and Data Science** | MIT Emerging Talent *(Graduate)*
-  * **Bachelor of Economics**
+  * **Bachelor of Economics**(Addis Ababa University, 2021)
 
 -----
 
