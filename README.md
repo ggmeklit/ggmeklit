@@ -44,11 +44,3 @@ Built a Logistic Regression model to identify at-risk subscribers. This project 
 *"I am excited to upload and share my journey as I evolve at the intersection of Economics, Compliance, and AI."*
 
 -----
-
-### **How to update your GitHub:**
-
-1.  Open your repository (the one named after your username).
-2.  Click the **Edit** (pencil icon) on your `README.md`.
-3.  Select all the current text and replace it with the Markdown code above.
-4.  Scroll down and click **Commit changes**.
-GitHub: github.com/ggmeklit
